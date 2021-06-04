@@ -425,7 +425,7 @@ class CreateRecord extends Component {
 
 
 export default GoogleApiWrapper({
-  apiKey: ("AIzaSyBSjzsDH3F0JVL5K1yzHYOMi4zf6QDZ_Qc")
+  apiKey: ("google api key here")
 })(CreateRecord)
 
 
